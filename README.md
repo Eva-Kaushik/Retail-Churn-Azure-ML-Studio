@@ -1,5 +1,4 @@
 # Challenge: Data Scientist
-![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
 [![Python 3](https://img.shields.io/badge/Python-3-blue.svg)](https://www.python.org/downloads/release/python-391/)
 
 ## Describe Project
@@ -8,9 +7,6 @@ Predict retail churn
 ## Objectives
 - Use Microsoft Azure Machine Learning Studio
 - Import external librarie in Azure Machine Learning Studio
-
-## Data Source
-In this repository: [raw](https://github.com/brunocampos01/predicting-retail-churn-with-azure-ml-studio/tree/master/data/raw)
 
 ## Algorithms
 Boosted Decision Tree
@@ -53,16 +49,6 @@ This project is tested with:
 
 <img src="images/challenge_retail_churn_5.png" align="center" height=auto width=80%/>
 
-
----
-
-<p  align="center">
-  <br/>
-	<a href="mailto:brunocampos01@gmail.com" target="_blank"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/email.png" width="30">
-	</a>
-	<a href="https://stackoverflow.com/users/8329698/bruno-campos" target="_blank"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/stackoverflow.png" width="30">
-	</a>
-	<a href="https://www.linkedin.com/in/brunocampos01" target="_blank"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/linkedin.png" width="30">
 	</a>
 	<a href="https://github.com/brunocampos01" target="_blank"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/github.png" width="30"></a>
 	<a href="https://medium.com/@brunocampos01" target="_blank"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/medium.png" width="30">
