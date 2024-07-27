@@ -48,9 +48,4 @@ This project is tested with:
 ---
 
 <img src="images/challenge_retail_churn_5.png" align="center" height=auto width=80%/>
-
-	</a>
-	<a href="https://github.com/brunocampos01" target="_blank"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/github.png" width="30"></a>
-	<a href="https://medium.com/@brunocampos01" target="_blank"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/medium.png" width="30">
-	</a>
 </p>
